@@ -10,5 +10,6 @@ public class Application {
     public static void main(String[] args) {
         SFrame frame = new SFrame();
         frame.launchFrame();
+        //commit 1
     }
 }
