@@ -11,5 +11,6 @@ public class Application {
         SFrame frame = new SFrame();
         frame.launchFrame();
         //commit 1
+        //commit 2
     }
 }
